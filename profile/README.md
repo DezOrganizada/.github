@@ -1,4 +1,4 @@
-<h1 align="center">DezOrganizada Furiosa - B10</h1>
+<h1 align="center">Dezorganizada Furiosa - B10</h1>
 <div align="center">
 <br>
   <a href="https://github.com/dez_organizada/"><img src="/profile/images/logoB10.png" width=400 weigth=400 alt="DezOrganizada"></a>
